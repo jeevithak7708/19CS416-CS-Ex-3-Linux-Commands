@@ -370,7 +370,8 @@ cal
 
 **Output:**
 
-<img width="325" height="155" alt="image" src="https://github.com/user-attachments/assets/bc7c1f8a-a458-4cdd-b60d-f23b8f57a95c" />
+<img width="605" height="332" alt="image" src="https://github.com/user-attachments/assets/fe356db1-947f-4120-a136-3c09ec3effc9" />
+
 
 
 ### 27. `clear` Command
