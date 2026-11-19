@@ -399,7 +399,8 @@ mail
 
 **Output:**
 
-<img width="760" height="175" alt="image" src="https://github.com/user-attachments/assets/e218afe1-7164-4652-b0eb-b448f1ca48ce" />
+<img width="858" height="257" alt="image" src="https://github.com/user-attachments/assets/407d22cb-a5c3-4619-9461-3e5af7342680" />
+
 
 
 
