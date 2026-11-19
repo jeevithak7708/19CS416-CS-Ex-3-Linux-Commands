@@ -399,7 +399,8 @@ mail
 
 **Output:**
 
-<img width="353" height="76" alt="image" src="https://github.com/user-attachments/assets/bdf393ed-0688-4c76-bbc9-ea600780344b" />
+<img width="760" height="175" alt="image" src="https://github.com/user-attachments/assets/e218afe1-7164-4652-b0eb-b448f1ca48ce" />
+
 
 
 ### 29. `df` Command
